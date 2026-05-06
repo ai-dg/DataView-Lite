@@ -10,11 +10,11 @@ Un explorateur de bases **SQLite** pensé pour les utilisateurs **non techniques
 
 | Mode Guide | Importation fichier SQL |
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/ab13c977-3297-4d22-9e65-093526508453" alt="Mode guide" width="500"> | <img src="https://github.com/user-attachments/assets/a0ebde94-f421-47a2-b243-0b1a48c21da0" alt="Loss function curve" width="500"> |
+| <img src="https://github.com/user-attachments/assets/ab13c977-3297-4d22-9e65-093526508453" width="500"> | <img src="https://github.com/user-attachments/assets/a0ebde94-f421-47a2-b243-0b1a48c21da0" width="500"> |
 
 | Resume Table | Recherche de resultats |
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/fe206c77-d6b7-4fb0-898d-96d656631611" alt="Resume table" width="500"> | <img src="https://github.com/user-attachments/assets/a02b88c9-2bcb-4af4-8c90-e9f569bad5a8" alt="Recherche de tables" width="500"> |
+| <img src="https://github.com/user-attachments/assets/fe206c77-d6b7-4fb0-898d-96d656631611" width="500"> | <img src="https://github.com/user-attachments/assets/a02b88c9-2bcb-4af4-8c90-e9f569bad5a8" width="500"> |
 
 
 </div>
