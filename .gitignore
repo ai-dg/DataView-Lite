@@ -1,0 +1,44 @@
+# Dépendances
+node_modules/
+
+# Build Next.js
+.next/
+out/
+next-env.d.ts
+tsconfig.tsbuildinfo
+
+# Environnement
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Éditeurs (sauf .vscode partagé)
+.idea/
+*.swp
+*.swo
+
+# Cache et runtime
+.cache/
+.vercel/
+coverage/
+/tmp/
+/dataview-ollama.log
+
+# Bases SQLite uploadées par l'utilisateur (les démos restent versionnées)
+*.sqlite
+*.db
+!demo-databases/*.db
+!demo-databases/*.sqlite
+
+# Tests / artefacts locaux
+test.pdf
