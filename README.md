@@ -6,6 +6,20 @@ Un explorateur de bases **SQLite** pensé pour les utilisateurs **non techniques
 
 ---
 
+<div align="center">
+
+| Mode Guide | Importation fichier SQL |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/ab13c977-3297-4d22-9e65-093526508453" alt="Mode guide" width="500"> | <img src="https://github.com/user-attachments/assets/a0ebde94-f421-47a2-b243-0b1a48c21da0" alt="Loss function curve" width="500"> |
+
+| Resume Table | Recherche de resultats |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/fe206c77-d6b7-4fb0-898d-96d656631611" alt="Resume table" width="500"> | <img src="https://github.com/user-attachments/assets/a02b88c9-2bcb-4af4-8c90-e9f569bad5a8" alt="Recherche de tables" width="500"> |
+
+
+</div>
+
+
 ## Démarrage rapide
 
 ```bash
@@ -98,6 +112,7 @@ LLM_MODE=auto
 - **Options LLM** : ajouter une option pour remplacer facilement les LLM locaux par des LLM via clé API (pas encore testé). Étudier la possibilité d'utiliser Ollama avec deux LLM en même temps en streaming.
 - **Améliorer la labellisation** : tester et corriger plus de cas de figure pour des bases de données avec des noms plus complexes.
 - **Tester et prouver un déploiement en PROD** : pour l'instant testé en dev, la prod n'est pas encore réalisée (cloud, coût, etc.).
+- **Export Excel/CSV** : Ameliorer l'exportation en CSV et corriger les bugs.
 
 ### UX
 - **Mise en place d'un système d'écriture micro** : écrire à l'assistant via microphone à la place du clavier.
