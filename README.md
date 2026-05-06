@@ -2,7 +2,7 @@
 
 Un explorateur de bases **SQLite** pensé pour les utilisateurs **non techniques**, avec un assistant en **langage naturel** (français). Importez n'importe quel fichier `.sqlite` ou `.db`, l'application en déduit la structure, humanise les libellés et permet de chercher, lire et exporter — sans jamais voir une ligne de SQL.
 
-> POC réalisé dans le cadre d'un test technique de 2 heures. Priorité : UX claire, généricité, démo fiable.
+> POC réalisé : UX claire, généricité, démo fiable.
 
 ---
 
