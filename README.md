@@ -1,5 +1,7 @@
 # DataView Lite
 
+<img src="assets/overview.png" alt="DataView-Lite — overview" width="760">
+
 Un explorateur de bases **SQLite** pensé pour les utilisateurs **non techniques**, avec un assistant en **langage naturel** (français). Importez n'importe quel fichier `.sqlite` ou `.db`, l'application en déduit la structure, humanise les libellés et permet de chercher, lire et exporter — sans jamais voir une ligne de SQL.
 
 > POC réalisé : UX claire, généricité, démo fiable.
