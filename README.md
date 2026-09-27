@@ -167,7 +167,7 @@ lib/
   errors.ts                  # erreurs typées
   types.ts                   # Schema, RowsPayload, AssistantResponse, SchemaContext, …
 scripts/
-  create-demo-databases.ts   # génère les 2 bases de démo
+  create-demo-databases.ts   # génère les 8 bases de démo (npm run demo:db)
 demo-databases/              # bases SQLite générées
 .claude/                     # règles, agents et skills (méta-doc projet)
 Makefile                     # make dev / make build / make start / make clean
